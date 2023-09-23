@@ -1,0 +1,521 @@
+.macbook-pro-14-1-child {
+  position: absolute;
+  top: 1765px;
+  left: calc(50% - 1900px);
+  border-radius: 50%;
+  background-color: var(--color-steelblue-100);
+  width: 3799px;
+  height: 2689px;
+}
+.macbook-pro-14-1-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #005491;
+  width: 1512px;
+  height: 133px;
+}
+.about,
+.contact,
+.courses,
+.home {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--h2-semibold-26-size);
+  font-family: var(--font-montserrat);
+  color: var(--color-mistyrose);
+  text-align: left;
+  display: inline-block;
+}
+.about,
+.contact,
+.courses {
+  left: 142px;
+  color: var(--color-lavender-100);
+}
+.contact,
+.courses {
+  left: 284px;
+}
+.contact {
+  left: 452px;
+}
+.home-parent {
+  position: absolute;
+  top: 56px;
+  left: calc(50% - 256px);
+  width: 557px;
+  height: 32px;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 17px;
+  border: 1.3px solid #edf2ff;
+  box-sizing: border-box;
+  width: 172px;
+  height: 58px;
+}
+.sign-in {
+  position: absolute;
+  top: calc(50% - 16px);
+  left: calc(50% - 45px);
+  font-size: var(--h2-semibold-26-size);
+  font-family: var(--font-montserrat);
+  color: var(--color-lavender-100);
+  text-align: left;
+}
+.rectangle-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 43px;
+  left: 1294px;
+  width: 172px;
+  height: 58px;
+}
+.logo-1-1,
+.navbar {
+  position: absolute;
+  left: 0;
+  height: 135px;
+}
+.logo-1-1 {
+  top: 2px;
+  width: 245px;
+  object-fit: cover;
+}
+.navbar {
+  top: -2px;
+  width: 1466px;
+}
+.macbook-pro-14-1-inner {
+  position: absolute;
+  top: 265px;
+  left: 1110px;
+  border-radius: 77px;
+  background-color: var(--color-steelblue-100);
+  width: 225px;
+  height: 741px;
+}
+.kisspng-student-reading-book-e-icon {
+  position: absolute;
+  top: 402px;
+  left: 707px;
+  width: 692px;
+  height: 634px;
+  object-fit: cover;
+}
+.new-trend {
+  color: var(--color-steelblue-100);
+}
+.lifelong-learning-is-container {
+  position: absolute;
+  top: 348px;
+  left: 87px;
+  font-size: 84px;
+  font-weight: 500;
+  display: inline-block;
+  width: 766px;
+  color: var(--color-gray);
+}
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 37px;
+  background-color: var(--color-steelblue-100);
+  width: 350px;
+  height: 94px;
+}
+.join-now {
+  position: absolute;
+  top: calc(50% - 34px);
+  left: calc(50% - 107px);
+  font-size: 46px;
+  font-family: var(--font-poppins);
+  color: var(--color-lavender-100);
+  text-align: left;
+}
+.rectangle-group {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 757px;
+  left: 87px;
+  width: 350px;
+  height: 94px;
+}
+.we-are-dedicated {
+  position: absolute;
+  top: 579px;
+  left: 88px;
+  font-size: 31px;
+  font-family: var(--font-poppins);
+  display: inline-block;
+  width: 730px;
+  height: 151px;
+}
+.frame-inner,
+.frame-item,
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-28xl);
+  width: 416px;
+  height: 504px;
+}
+.frame-item {
+  left: 0;
+  background-color: #cde9fe;
+}
+.frame-inner,
+.rectangle-div {
+  left: 460px;
+  background-color: var(--color-lightblue-100);
+}
+.rectangle-div {
+  left: 920px;
+}
+.x0020-1-icon {
+  position: absolute;
+  height: 38.1%;
+  width: 19.16%;
+  top: 9.13%;
+  right: 74.85%;
+  bottom: 52.78%;
+  left: 5.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.discover {
+  position: absolute;
+  top: 245px;
+  left: 128px;
+  font-weight: 500;
+}
+.learn,
+.x7-doubt-support {
+  position: absolute;
+  top: 243px;
+  left: calc(50% - 55px);
+  font-weight: 500;
+}
+.x7-doubt-support {
+  top: 245px;
+  left: calc(50% + 270px);
+}
+.choose-the-faculty,
+.no-doubt-is,
+.unlock-your-potential {
+  position: absolute;
+  top: 324px;
+  left: 39px;
+  font-size: var(--font-size-8xl);
+  font-family: var(--font-poppins);
+  color: var(--color-gray);
+  text-align: center;
+  display: inline-block;
+  width: 350px;
+}
+.no-doubt-is,
+.unlock-your-potential {
+  left: 493px;
+}
+.no-doubt-is {
+  left: 949px;
+}
+.online-learning-concept {
+  position: absolute;
+  top: 11px;
+  left: calc(50% - 98px);
+  width: 196px;
+  height: 196px;
+  overflow: hidden;
+}
+.group-icon {
+  position: absolute;
+  height: 27.56%;
+  width: 3.72%;
+  top: 13.49%;
+  right: 13.72%;
+  bottom: 58.95%;
+  left: 82.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-container {
+  position: absolute;
+  top: 1083px;
+  left: 88px;
+  width: 1336px;
+  height: 504px;
+  font-size: var(--font-size-18xl);
+}
+.productanswr2x-1-icon,
+.productcodr2x-1-icon,
+.productschoolos2x-1-icon {
+  position: absolute;
+  top: 1952px;
+  left: 523px;
+  width: 381px;
+  height: 163px;
+  object-fit: cover;
+}
+.productanswr2x-1-icon,
+.productcodr2x-1-icon {
+  top: 2115px;
+  left: 519px;
+}
+.productcodr2x-1-icon {
+  top: 1923px;
+  left: 88px;
+  border-radius: 26px;
+  width: 437px;
+  height: 355px;
+}
+.line-div {
+  position: absolute;
+  top: 1998.5px;
+  left: 912.5px;
+  border-top: 1px solid var(--color-mistyrose);
+  box-sizing: border-box;
+  width: 114px;
+  height: 1px;
+}
+.we-are {
+  color: var(--white);
+}
+.who-we-are-container {
+  position: absolute;
+  top: 1979px;
+  left: 1045px;
+  color: var(--color-darkorange-100);
+}
+.frame-child1,
+.frame-child2 {
+  position: absolute;
+  top: 19.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-mistyrose);
+  box-sizing: border-box;
+  width: 114px;
+  height: 1px;
+}
+.frame-child2 {
+  left: 653.5px;
+}
+.popular-instructors {
+  color: var(--color-mistyrose);
+}
+.our-popular-instructors-container {
+  position: absolute;
+  top: 0;
+  left: 132px;
+}
+.line-parent {
+  position: absolute;
+  top: 2427px;
+  left: calc(50% - 384px);
+  width: 767px;
+  height: 40px;
+  color: var(--color-darkorange-100);
+}
+.lorem-ipsum-dolor {
+  position: absolute;
+  top: 2050px;
+  left: 916px;
+  font-size: 25px;
+  font-family: var(--font-poppins);
+  color: var(--color-mistyrose);
+  display: inline-block;
+  width: 508px;
+  height: 228px;
+}
+.frame-div,
+.macbook-pro-14-1-child1 {
+  position: absolute;
+  top: 2515px;
+  left: 216px;
+  width: 1079px;
+  height: 125px;
+}
+.frame-div {
+  top: 2801px;
+  left: 0;
+  background-color: var(--color-lightblue-100);
+  width: 1507px;
+  height: 576px;
+  overflow: hidden;
+}
+.surface-laptop-studio {
+  position: absolute;
+  top: 2794px;
+  left: 595px;
+  width: 915px;
+  height: 583px;
+  object-fit: cover;
+}
+.engage-learn-and,
+.your-pathway-to {
+  position: absolute;
+  left: 91px;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+}
+.your-pathway-to {
+  top: 2843px;
+  font-size: 60px;
+  text-transform: uppercase;
+  color: #f93;
+  width: 871px;
+  height: 172px;
+}
+.engage-learn-and {
+  top: 3056px;
+  font-size: 34px;
+  font-family: var(--font-poppins);
+  color: var(--color-steelblue-100);
+  width: 832px;
+  height: 45px;
+}
+.label-text {
+  position: relative;
+  font-size: var(--h2-semibold-26-size);
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  font-weight: 600;
+  font-family: var(--subhead-medium-24);
+  color: var(--text-color);
+  text-align: center;
+}
+.enabled-button,
+.state-layer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 24px;
+}
+.enabled-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--white);
+  position: absolute;
+  top: 3176px;
+  left: 91px;
+  border-radius: 100px;
+  width: 214px;
+  height: 82px;
+  overflow: hidden;
+  flex-direction: column;
+}
+.macbook-pro-14-1-child2 {
+  position: absolute;
+  top: 3787px;
+  left: -16px;
+  background-color: var(--color-mistyrose);
+  width: 10080px;
+  height: 3px;
+  overflow: hidden;
+}
+.about-us,
+.tutorcompass-inc-all {
+  position: absolute;
+  line-height: 150%;
+  font-family: var(--subhead-medium-24);
+  color: var(--color-mistyrose);
+}
+.tutorcompass-inc-all {
+  top: 97.35%;
+  left: 6.02%;
+  font-size: 20px;
+  font-weight: 300;
+}
+.about-us {
+  top: 0;
+  left: 0;
+  font-size: var(--subhead-medium-24-size);
+  font-weight: 500;
+  text-align: left;
+}
+.about-us-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  width: 97px;
+  height: 36px;
+}
+.terms-of-service-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 182px;
+  height: 36px;
+}
+.group-wrapper,
+.privacy-policy {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+}
+.group-wrapper {
+  width: 182px;
+  height: 36px;
+}
+.privacy-policy {
+  font-size: var(--subhead-medium-24-size);
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--subhead-medium-24);
+  color: var(--color-mistyrose);
+  text-align: left;
+  display: inline-block;
+}
+.group-parent {
+  position: absolute;
+  top: 3820px;
+  left: 717px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 49px;
+}
+.logo-1-11 {
+  position: absolute;
+  top: 3659px;
+  left: 33px;
+  width: 245px;
+  height: 135px;
+  object-fit: cover;
+}
+.macbook-pro-14-1 {
+  position: relative;
+  background-color: #b6deff;
+  width: 100%;
+  height: 3930px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-14xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
